@@ -1,0 +1,32 @@
+#opaque {
+    background-color: #333;
+}
+
+#nav-wrap {
+    font: 12px 'opensans-bold', sans-serif;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    margin: 0 auto;
+    z-index: 100;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.UserProfile {
+	margin-left: auto;
+}
+.User {
+		display: flex;
+}
+
+img {
+    width: 100%;
+    display: block;
+    border-radius: 44px;
+    margin-left: 10px;
+    overflow: hidden;
+    width: 44px;
+    height: 44px;
+}
